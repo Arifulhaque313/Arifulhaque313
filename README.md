@@ -1,6 +1,6 @@
 
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_200_800/0/1641812241807?e=1666828800&v=beta&t=hmd9z4vwYbwcErs0AcnXwEmPNYlpTR-6tN5VfJ19C9k" alt="Coder GIF" width="900" height="250"></p>
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_200_800/0/1641812241807?e=1666828800&v=beta&t=hmd9z4vwYbwcErs0AcnXwEmPNYlpTR-6tN5VfJ19C9k" alt="Coder GIF" width="900" height="220"></p>
 
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque ( Web Application Developer )</h1>
 
