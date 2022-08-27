@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="500"></p>
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_200_800/0/1641812241807?e=1666828800&v=beta&t=hmd9z4vwYbwcErs0AcnXwEmPNYlpTR-6tN5VfJ19C9k" alt="Coder GIF" width="800" height="500"></p>
 
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( SOFTWARE ENGINEER )</h1>
 
