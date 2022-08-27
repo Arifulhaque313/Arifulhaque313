@@ -36,8 +36,11 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
     <a title="Github" href="https://github.com/Arifulhaque313">
         <img src="https://img.shields.io/badge/-Ariful%20Haque-%23211F1F?style=flat-square&logo=github" />
     </a>
+    <a title="Github" href="https://github.com/Arifulhaque313">
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%23211F1F?style=flat-square&logo=gmail" />
+    </a>
     <a title="BitBucket"https://bitbucket.org/arifulsajib313/">
-        <img src="https://img.shields.io/badge/-Ariful-darkblue?style=flat-square&logo=bitbucket" />
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-darkblue?style=flat-square&logo=bitbucket" />
     </a>
 
 </p>
