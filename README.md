@@ -82,10 +82,6 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
 <a title="PHP" href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 </a>
-<a title="Markdown" href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
-</a>
-  
 </p>
 
 <h3 align="center"> FRAMEWORKS & CMS & LIBRARIES </h3>
@@ -97,24 +93,24 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
   <a title="Laravel Livewire" href="https://laravel-livewire.com/">
     <img src="https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=flat-square&logo=laravel-livwire&logoColor=white"/>
   </a>
-  <a title="CodeIgniter" href="http://codeigniter.com/">
+<!--   <a title="CodeIgniter" href="http://codeigniter.com/">
     <img src="http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623" />
-  </a>
-  <a title="DJango" href="https://www.djangoproject.com/">
+  </a> -->
+<!--   <a title="DJango" href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/DJango%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
-  </a>
+  </a> -->
   <a title="JQuery" href="https://jquery.com/">
     <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
   </a>
   <a title="Vue.JS" href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   </a>
-  <a title="React JS" href="https://reactjs.org/">
+<!--   <a title="React JS" href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  </a>
-   <a title="Alpine JS" href="https://alpinejs.dev/">
+  </a> -->
+<!--    <a title="Alpine JS" href="https://alpinejs.dev/">
     <img src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black"/>
-  </a>
+  </a> -->
   <a title="Bootstrap" href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
   </a>
@@ -136,9 +132,9 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
   <a title="MYSQL" href="https://www.mysql.com/">
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
   </a>
-  <a title="POSTGRESQL" href="https://www.postgresql.org/">
+<!--   <a title="POSTGRESQL" href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-  </a>
+  </a> -->
   
 </p>
 
@@ -156,9 +152,9 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
   <a title="BitBucket" href="https://bitbucket.org/mishajib/">
     <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
   </a>
-  <a title="GitLab" href="https://gitlab.com/mishajib">
+<!--   <a title="GitLab" href="https://gitlab.com/mishajib">
     <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
-  </a>  
+  </a>   -->
 </p>
 
 <h4 align="center"> Editors & <span title="Intergrated Development Environment">IDE</span>'s </h4>
@@ -240,6 +236,7 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
 </p>
 <hr/>
 
+  <!--                                                                                                             
 **Arifulhaque313/Arifulhaque313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -252,4 +249,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
