@@ -234,7 +234,10 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
   </a>
   
 </p>
+                                                                                                               
 <hr/>
+                                                                                                               
+                                                                                                               ![Profile views](https://gpvc.arturio.dev/Arifulhaque313)  
 
   <!--                                                                                                             
 **Arifulhaque313/Arifulhaque313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
