@@ -1,13 +1,15 @@
-### Hi there 👋
-
 
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_200_800/0/1641812241807?e=1666828800&v=beta&t=hmd9z4vwYbwcErs0AcnXwEmPNYlpTR-6tN5VfJ19C9k" alt="Coder GIF" width="1000" height="300"></p>
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_200_800/0/1641812241807?e=1666828800&v=beta&t=hmd9z4vwYbwcErs0AcnXwEmPNYlpTR-6tN5VfJ19C9k" alt="Coder GIF" width="900" height="200"></p>
 
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( SOFTWARE ENGINEER )</h1>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque ( Web Application Developer )</h1>
 
 <p align="justify">
-I am a passionate <strong>software engineer</strong> with 2+ years of experience. I have experienced and love to work with few technologies are - <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>. I am always looking forward to the <strong>opportunity</strong> to work in the <strong>software engineering industries</strong>. I always love to learn <strong>new techs</strong> in the programming world.
+I've 1 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with PHP, and Laravel, experience with front-end frameworks like Vue.Js, and also solid Back-End development experience.
+I am responsible to develop & maintaining E-Commerce, Payment Getaways, Different Types of API, and other Management and Finance-based software. 
+
+My main focus is to learn new tools & technologies and improve my skills. I have the ability to learn anything very quickly. 
+
 </p>
 
 - 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, **Python** coding, data structures, and algorithms.
