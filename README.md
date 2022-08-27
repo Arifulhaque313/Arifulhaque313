@@ -22,19 +22,19 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
         <img src="https://img.shields.io/badge/-Ariful%20Haque-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/md-ariful-haque-4b8283225/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Instagram" href="https://www.instagram.com/sajibk313/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Sajibk313%20-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
     <a title="Twitter" href="https://twitter.com/MdArifu88780375">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UChCUEnwf4R7gF42jSoPRYgQ">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
     </a>
     <a title="Github" href="https://github.com/Arifulhaque313">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%23211F1F?style=flat-square&logo=github" />
     </a>
     <a title="BitBucket"https://bitbucket.org/arifulsajib313/">
         <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
