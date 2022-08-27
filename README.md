@@ -31,13 +31,13 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
         <img src="https://img.shields.io/badge/-Ariful%20Haque-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UChCUEnwf4R7gF42jSoPRYgQ">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%23FF0000?style=flat-square&logo=youtube" />
     </a>
     <a title="Github" href="https://github.com/Arifulhaque313">
         <img src="https://img.shields.io/badge/-Ariful%20Haque-%23211F1F?style=flat-square&logo=github" />
     </a>
     <a title="BitBucket"https://bitbucket.org/arifulsajib313/">
-        <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
+        <img src="https://img.shields.io/badge/-Ariful-darkblue?style=flat-square&logo=bitbucket" />
     </a>
 
 </p>
