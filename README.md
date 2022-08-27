@@ -5,38 +5,38 @@
 <!-- <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque</h1> -->
 
 <p align="justify">
-I've 1 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with <strong>PHP</strong> , and <strong>Laravel</strong>, experience with front-end frameworks like <strong>Vue.Js</strong>, and also solid <strong>Back-End</strong> development experience.
+I've 1 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with <strong>PHP</strong>, and <strong>Laravel</strong>, experience with front-end frameworks like <strong>Vue.Js</strong>, and also solid <strong>Back-End</strong> development experience.
 I am responsible to develop & maintaining <strong>E-Commerce</strong>, <strong>Payment Getaways</strong>, Different Types of <strong>API</strong>, and other <strong>Management</strong> and <strong>Finance-based</strong> software. 
 
-My main focus is to learn new tools & technologies and improve my skills. I have the ability to learn anything very quickly. 
+My main focus is to learn <strong>new tools & technologies</strong> and improve my skills. I have the ability to learn anything very quickly. 
 
 </p>
 
-- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, **Python** coding, data structures, and algorithms.
-- 🤝 Open for **collaborations** in the **PHP**, **JavaScript** and **Python** community.
+- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, coding, data structures, and algorithms.
+- 🤝 Open for **collaborations** in the **PHP** and **JavaScript** community.
 - 😊 Always ready to **contribute** to **opensource** development projects.
 
-<h2 align="center">📫 WHERE TO FIND ME</h2>
+<h2 align="center">📫 REACH ME</h2>
 <p align="center">
-    <a title="Facebook" href="https://facebook.com/mi.shajib1/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+    <a title="Facebook" href="https://www.facebook.com/arifulislam.sajib.568/">
+        <img src="https://img.shields.io/badge/-Ariful%20Haque-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
+    <a title="LinkedIn" href="https://www.linkedin.com/in/md-ariful-haque-4b8283225/">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
-    <a title="Instagram" href="https://instagram.com/mi.shajib1/">
+    <a title="Instagram" href="https://www.instagram.com/sajibk313/">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
-    <a title="Twitter" href="https://twitter.com/mishajib1">
+    <a title="Twitter" href="https://twitter.com/MdArifu88780375">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
-    <a title="Youtube" href="https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w">
+    <a title="Youtube" href="https://www.youtube.com/channel/UChCUEnwf4R7gF42jSoPRYgQ">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
     </a>
-    <a title="Github" href="https://github.com/mishajib">
+    <a title="Github" href="https://github.com/Arifulhaque313">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
     </a>
-    <a title="BitBucket" href="https://bitbucket.org/mishajib/">
+    <a title="BitBucket"https://bitbucket.org/arifulsajib313/">
         <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
     </a>
 
