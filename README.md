@@ -6,7 +6,7 @@
 <!-- <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque</h1> -->
 
 <p align="justify">
-I've 1 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with <strong>PHP</strong>, and <strong>Laravel</strong>, experience with front-end frameworks like <strong>Vue.Js</strong>, and also solid <strong>Back-End</strong> development experience.
+I've 1.5 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with <strong>PHP</strong>, and <strong>Laravel</strong>, experience with front-end frameworks like <strong>Vue.Js</strong>, and also solid <strong>Back-End</strong> development experience.
 I am responsible to develop & maintaining <strong>E-Commerce</strong>, <strong>Payment Getaways</strong>, Different Types of <strong>API</strong>, and other <strong>Management</strong> and <strong>Finance-based</strong> software. 
 
 My main focus is to learn <strong>new tools & technologies</strong> and improve my skills. I have the ability to learn anything very quickly. 
