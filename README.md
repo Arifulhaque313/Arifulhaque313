@@ -1,6 +1,6 @@
 
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQE7IfZBkiuqCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697965907204?e=1733356800&v=beta&t=XJ5EfEhjVMHbArPAjcE7RT7XO8vW2w6kk7gDdYqCkds" alt="Coder GIF" width="900" height="220"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQE7IfZBkiuqCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697965907204?e=1733356800&v=beta&t=XJ5EfEhjVMHbArPAjcE7RT7XO8vW2w6kk7gDdYqCkds" alt="Coder GIF"></p>
 
 
 <!-- <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque</h1> -->
