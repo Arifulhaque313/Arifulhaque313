@@ -1,15 +1,16 @@
 
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQE8xKrv3ouSCA/profile-displaybackgroundimage-shrink_350_1400/0/1641812241807?e=1673481600&v=beta&t=lk5IYtkwn0EeFGbvzfZlDX_-QOqxqSHFL4kpk3djfd8" alt="Coder GIF" width="900" height="220"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQE7IfZBkiuqCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697965907204?e=1733356800&v=beta&t=XJ5EfEhjVMHbArPAjcE7RT7XO8vW2w6kk7gDdYqCkds" alt="Coder GIF" width="900" height="220"></p>
 
 
 <!-- <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque</h1> -->
 
 <p align="justify">
-I've 1.5 years+ of experience in <strong>Web Application Development</strong>. Experienced with developing dynamic web projects with <strong>PHP</strong>, and <strong>Laravel</strong>, experience with front-end frameworks like <strong>Vue.Js</strong>, and also solid <strong>Back-End</strong> development experience.
-I am responsible to develop & maintaining <strong>E-Commerce</strong>, <strong>Payment Getaways</strong>, Different Types of <strong>API</strong>, and other <strong>Management</strong> and <strong>Finance-based</strong> software. 
+I specialize in building dynamic and scalable web solutions focusing on front-end and back-end technologies. My expertise includes working with front-end frameworks like Vue.js and React.js, and back-end development using PHP and Laravel. I have a proven track record of developing and maintaining E-Commerce platforms, Payment Gateways, APIs, and various Management and Finance-based software. 💻🔧
 
-My main focus is to learn <strong>new tools & technologies</strong> and improve my skills. I have the ability to learn anything very quickly. 
+My passion lies in continuous learning and skill enhancement, allowing me to quickly adapt to new tools and technologies. 🚀 I thrive in fast-paced environments and am dedicated to delivering high-quality solutions that exceed client expectations. 🌟
+
+Feel free to reach out: <strong>asajib7654@gmail.com 📧</strong>
 
 </p>
 
