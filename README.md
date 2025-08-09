@@ -14,8 +14,8 @@ Feel free to reach out: <strong>asajib7654@gmail.com 📧</strong>
 
 </p>
 
-- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, coding, data structures, and algorithms.
-- 🤝 Open for **collaborations** in the **PHP** and **JavaScript** community.
+- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **Java**, **JavaScript**, coding, data structures, and algorithms.
+- 🤝 Open for **collaborations** in the **PHP**, **Java** and **JavaScript** community.
 - 😊 Always ready to **contribute** to **opensource** development projects.
 
 <h2 align="center">📫 REACH ME</h2>
