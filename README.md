@@ -6,9 +6,11 @@
 <!-- <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ariful Haque</h1> -->
 
 <p align="justify">
-I specialize in building dynamic and scalable web solutions focusing on front-end and back-end technologies. My expertise includes working with front-end frameworks like Vue.js and React.js, and back-end development using PHP and Laravel. I have a proven track record of developing and maintaining E-Commerce platforms, Payment Gateways, APIs, and various Management and Finance-based software. 💻🔧
+Hi, I’m Ariful Haque Sajib, a Software Engineer shaping ideas into code — Known online as @arifulhaque313  GitHub| LinkedIn | Medium | dev.to | Pinterest | Instagram
 
-My passion lies in continuous learning and skill enhancement, allowing me to quickly adapt to new tools and technologies. 🚀 I thrive in fast-paced environments and am dedicated to delivering high-quality solutions that exceed client expectations. 🌟
+I specialize in building dynamic and scalable web solutions focusing on front-end and back-end technologies. My expertise includes working with front-end frameworks like Vue.js and React.js, and back-end development using PHP, Laravel and Spring Boot. I have a proven track record of developing and maintaining E-Commerce platforms, Payment Gateways, APIs, and various Management and Finance-based software. 💻
+
+My passion lies in continuous learning and skill enhancement, allowing me to adapt to new tools and technologies quickly. I thrive in fast-paced environments and am dedicated to delivering high-quality solutions that exceed client expectations. 🌟
 
 Feel free to reach out: <strong>asajib7654@gmail.com 📧</strong>
 
